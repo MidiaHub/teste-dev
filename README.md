@@ -1,7 +1,7 @@
 # teste-dev
 # Teste para vaga de Desenvolvedor 
 
-Olá aspirante a W Technology, seja bem-vindo ao seu teste.
+Olá aspirante, seja bem-vindo ao seu teste.
 
 Esperamos que tenha dado tudo certo até aqui e desejamos a você um ótimo teste.
 
@@ -11,7 +11,7 @@ Disclaimer: Os CNPJs e CPFs utilizados nos testes foram gerados em https://www.4
 ## Stack
 *Backend*: PHP, Node ou python
 
-*Froentend*: Angular, React ou vue
+*Froentend*: html com jquery, Angular, React ou vue
 
 *Database*: Postgresql, Mongodb ou MySQL
 
@@ -19,9 +19,9 @@ Disclaimer: Os CNPJs e CPFs utilizados nos testes foram gerados em https://www.4
 *Obs*: Você pode utilizar frameworks e bibliotecas.
 
 ## O Problema e O que Esperamos
-Nosso core business é contratação de frete, então nada mais justo do que praticarmos o seu futuro dia-a-dia.
+Nosso core business é SAC(atendimento ao cliente), então nada mais justo do que praticarmos o seu futuro dia-a-dia.
 
-Você deve criar uma API REST capaz de cadastrar e obter informações de Empresas, Clientes, Ofertas e Lances.
+Você deve criar uma API REST capaz de cadastrar e obter informações de Empresas, Clientes, Ocorrencia e Protocolos de atendimento.
 
 Os dados recebidos devem ser armazenados num banco de dados criado pelo candidato.
 
